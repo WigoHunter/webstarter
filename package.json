@@ -1,0 +1,22 @@
+{
+  "name": "webstarter",
+  "version": "1.0.0",
+  "description": "web project starter template with gulp, livereload, postcss, cssnext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WigoHunter/webstarter.git"
+  },
+  "keywords": [
+    "starter"
+  ],
+  "author": "WigoHunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WigoHunter/webstarter/issues"
+  },
+  "homepage": "https://github.com/WigoHunter/webstarter#readme"
+}
