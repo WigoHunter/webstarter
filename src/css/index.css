@@ -16,5 +16,6 @@ body {
 
   & h1 {
     color: var(--lightGray);
+    cursor: pointer;
   }
 }
