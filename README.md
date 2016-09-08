@@ -2,7 +2,7 @@
 Frontend web project starter template with Gulp, Livereload, PostCSS, CSSNext, Babel, ES6 features.  
 
 # Why
-This project starter pre-installs and sets up the basic configurations needed for a modern web development environment, powered by a series of Gulp plugins (PostCSS and Babel) and an easy local server by Express  
+This project starter pre-installs and sets up the basic configurations needed for a modern web development environment, powered by a series of Gulp plugins (PostCSS and Babel) and an easy local server by ExpressJS.  
 
 # Usage
 Step 1: Clone the project using `git clone https://github.com/WigoHunter/webstarter.git`.  
