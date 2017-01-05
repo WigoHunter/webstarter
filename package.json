@@ -4,8 +4,7 @@
   "description": "web project starter template with gulp, livereload, postcss, cssnext",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "startdev": "concurrently --kill-others 'gulp' 'node server.js'",
+    "dev": "concurrently --kill-others 'gulp' 'node server.js'",
     "start": "node server.js"
   },
   "repository": {
